@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MUN Minute</title>
+  <style>
+    body {
+      font-family: 'Georgia', serif;
+      background-color: #f7f7f7;
+      color: #222;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #000000;
+      color: white;
+      padding: 2rem;
+      text-align: center;
+    }
+    nav {
+      text-align: center;
+      padding: 1rem;
+      background-color: #ddd;
+    }
+    nav a {
+      margin: 0 15px;
+      text-decoration: none;
+      color: #000;
+      font-weight: bold;
+    }
+    .container {
+      max-width: 800px;
+      margin: auto;
+      padding: 2rem;
+      background-color: white;
+    }
+    footer {
+      text-align: center;
+      padding: 1rem;
+      background-color: #000;
+      color: white;
+      margin-top: 2rem;
+    }
+    h1, h2, h3 {
+      font-weight: 700;
+    }
+    .button {
+      background-color: black;
+      color: white;
+      padding: 0.75rem 1.5rem;
+      text-decoration: none;
+      font-weight: bold;
+      border-radius: 5px;
+      display: inline-block;
+      margin-top: 1rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>MUN Minute</h1>
+    <p>In 60 seconds or less, sharpen your edge. Silent power for smart delegates.</p>
+  </header>
+
+  <nav>
+    <a href="#blog">Blog</a>
+    <a href="#toolkit">Toolkit</a>
+    <a href="#subscribe">Subscribe</a>
+    <a href="#about">About</a>
+  </nav>
+
+  <div class="container" id="blog">
+    <h2>Latest Blog Posts</h2>
+    <ul>
+      <li><strong>The Perfect Opening Speech Template</strong> – A timeless formula that commands attention.</li>
+      <li><strong>Why Most Delegates Speak Too Much and Still Lose</strong> – Winning is about quality, not quantity.</li>
+      <li><strong>POIs That Break Confidence Without Being Rude</strong> – The art of striking calmly.</li>
+    </ul>
+    <a class="button" href="#">Read Full Blog</a>
+  </div>
+
+  <div class="container" id="toolkit">
+    <h2>Download the Best Delegate Toolkit</h2>
+    <p>Get your personal cheat code: speech formats, POIs, crisis sheets, and chair psychology tips – all in one free PDF.</p>
+    <a class="button" href="#">Download Toolkit</a>
+  </div>
+
+  <div class="container" id="subscribe">
+    <h2>Subscribe to The MUN Mind</h2>
+    <p>Weekly 1-minute tactics. One idea. One edge. Every Sunday.</p>
+    <form>
+      <input type="email" placeholder="Enter your email" style="padding: 0.5rem; width: 70%;">
+      <button class="button" type="submit">Subscribe</button>
+    </form>
+  </div>
+
+  <div class="container" id="about">
+    <h2>About MUN Minute</h2>
+    <p>
+      I’ve never chaired a committee. I’ve been skipped over. And I’ve still walked away with Best Delegate.
+      MUN Minute exists for the outsiders — the quiet ones who prepare harder, think sharper, and win without shouting.
+      You don’t need a title. You need tactics.
+    </p>
+  </div>
+
+  <footer>
+    <p>© 2025 MUN Minute | Built with silent strategy.</p>
+  </footer>
+</body>
+</html>

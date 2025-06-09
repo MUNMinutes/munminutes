@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Blog - MUN Minute</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>MUN Minute</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="blog.html">Blog</a>
+      <a href="about.html">About</a>
+    </nav>
+  </header>
+
+  <main>
+    <h2>All Blog Posts</h2>
+    <ul>
+      <li><a href="post1.html">How to Open Your MUN Speech with Power</a></li>
+      <li><a href="post2.html">Top 5 Tricks to Win Best Delegate</a></li>
+    </ul>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 MUN Minute. All rights reserved.</p>
+  </footer>
+</body>
+</html>

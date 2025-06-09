@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>About - MUN Minute</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>MUN Minute</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="blog.html">Blog</a>
+      <a href="about.html">About</a>
+    </nav>
+  </header>
+
+  <main>
+    <h2>About This Blog</h2>
+    <p>Hi there! I'm a student who’s passionate about Model United Nations. I created this blog to share secret strategies, writing tips, and delegate-winning techniques that I’ve picked up through experience.</p>
+    <p>Stay anonymous. Stay sharp. And stay winning.</p>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 MUN Minute. All rights reserved.</p>
+  </footer>
+</body>
+</html>
